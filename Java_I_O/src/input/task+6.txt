@@ -1,0 +1,4 @@
+The first value is : 59.0 && 1000, 10001. a b c
+The second value is : 90.0 && 999, 19982759236. d e f
+The value '90.0' is the greatest. 9167349273 13867923 g h j
+The maximum of the two values '59.0' and '90.0' is given as :90.0

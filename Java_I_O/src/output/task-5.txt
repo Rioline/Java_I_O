@@ -1,0 +1,6 @@
+IVANOV    10 9 10
+PETROV    8 8 8 8 8
+SIDOROV   9 9 9 9 9
+Danchenko  3 3 3
+Stalone   1 1 1
+Malfoi    2 2 2
